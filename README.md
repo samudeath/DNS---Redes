@@ -1,6 +1,6 @@
 # DNS
 
- Algoritmo da camada de aplicação que, à priori, permite troca de nomes, sendo capaz de listar todos os usuários on-line e o endereço de IP do usuário a quem deseja comunicar-se. 
+ Algoritmo da camada de aplicação que, à priori é capaz de listar todos os usuários on-line e o endereço de IP do usuário a quem deseja comunicar-se. 
  
 ## Instalação de recursos
 
