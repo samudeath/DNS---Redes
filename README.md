@@ -24,14 +24,14 @@
   
   ## Integrantes do projeto
   
-  Flávio Cézar 
-  Matheus Vieira 
+  Flávio Cézar, 
+  Matheus Vieira, 
   Samuel Gomes
     
   ## Colaboração:
   
-  Eurípedes Antero
-  Gabriel Eduardo
+  Eurípedes Antero, 
+  Gabriel Eduardo, 
   Marcos Vinícius 
  
  Licence
